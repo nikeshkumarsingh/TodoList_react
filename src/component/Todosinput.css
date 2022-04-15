@@ -1,0 +1,27 @@
+input{
+    height:30px;
+    font-size: 16px;
+}
+#btn1{
+    padding:9px;
+    width:80px;
+    font-weight: bold;
+    border:0px;
+    border-radius: 7px;
+    color: white;
+    background: rgb(0,60,97);
+    font-size: 16px;
+    margin:10px;
+}
+#btn1:hover{
+    background:rgb(0, 153, 248);
+    color:white;
+}
+#btn2{
+    border:0px;
+    border-radius: 5px;
+    background:lightgreen;
+    font-weight: bold;
+    font-size: 16px;
+    padding:5px;
+}
