@@ -16,6 +16,7 @@ input{
 #btn1:hover{
     background:rgb(0, 153, 248);
     color:white;
+    border:1px solid black;
 }
 #btn2{
     border:0px;
